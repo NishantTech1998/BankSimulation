@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IDataServices\**" />
+    <EmbeddedResource Remove="IDataServices\**" />
+    <None Remove="IDataServices\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Banksimulation.Model\Banksimulation.Model.csproj" />
+  </ItemGroup>
+
+</Project>

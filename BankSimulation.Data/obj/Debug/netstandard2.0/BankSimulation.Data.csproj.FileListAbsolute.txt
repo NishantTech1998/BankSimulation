@@ -1,0 +1,35 @@
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.deps.json
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.dll
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.pdb
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\bin\Debug\netstandard2.0\Banksimulation.Model.dll
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\bin\Debug\netstandard2.0\Banksimulation.Model.pdb
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csprojAssemblyReference.cache
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csproj.CoreCompileInputs.cache
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.AssemblyInfoInputs.cache
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.AssemblyInfo.cs
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csproj.CopyComplete
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.dll
+C:\Users\nishant.k\Desktop\AAJ KA PACKAGE\FullFinal\BankSimulation\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.pdb
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.deps.json
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.dll
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.pdb
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\Banksimulation.Model.dll
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\Banksimulation.Model.pdb
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csprojAssemblyReference.cache
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.AssemblyInfoInputs.cache
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.AssemblyInfo.cs
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csproj.CopyComplete
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.dll
+C:\Users\Nishant\Desktop\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.pdb
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.deps.json
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.dll
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\BankSimulation.Data.pdb
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\Banksimulation.Model.dll
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\bin\Debug\netstandard2.0\Banksimulation.Model.pdb
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csprojAssemblyReference.cache
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csproj.CoreCompileInputs.cache
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.AssemblyInfoInputs.cache
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.AssemblyInfo.cs
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.csproj.CopyComplete
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.dll
+C:\Users\nishant.k\Downloads\BankSimulation-master\BankSimulation-master\BankSimulation.Data\obj\Debug\netstandard2.0\BankSimulation.Data.pdb
